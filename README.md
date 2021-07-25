@@ -17,10 +17,9 @@ Here are some ideas to get you started:
 
 
 <div align="center">
-<img src="" align="center" style="width: 100%" />
+<img src="https://github.com/andreavegac/andreavegac/blob/main/hi.png" alt="banner that says I'm Andrea Vega">
 </div>  
 
-<img src="https://github.com/andreavegac/andreavegac/blob/main/hi.png" alt="banner that says I'm Andrea Vega">
 
 ### <div align="center">I'm Andrea, a Salesforce developer.</div>  
   
