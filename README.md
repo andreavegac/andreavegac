@@ -25,7 +25,6 @@ Here are some ideas to get you started:
   
 
 🌱 I’m currently learning random things I find on the internet <br>
-📫 andrea.gjn@gmail.com is where you can contact me <br>
 😸 Proud cat mom  <br>
 ⚡ Fun fact: I use tabs over spaces <br>
 
