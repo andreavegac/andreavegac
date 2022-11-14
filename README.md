@@ -26,7 +26,10 @@ Here are some ideas to get you started:
 
 🌱 I’m currently learning random things I find on the internet <br>
 😸 Proud cat mom  <br>
+🐾 Double dog mom <br>
+👷🏼‍♀️ Working in aviation <br>
 ⚡ Fun fact: I use tabs over spaces <br>
+
 
 
 ## Connect with me  
